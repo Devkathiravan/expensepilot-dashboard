@@ -25,9 +25,9 @@ A modern Expense Management System built with React that helps users track, mana
 - jsPDF
 - CSS3
 
-## 🚀 Live Demo
-
-👉 [Try Live Demo](https://expensepilot-dashboard.netlify.app/)
+## 🚀 Live Demo -- 🔗 <a href="https://expensepilot-dashboard.netlify.app/" target="_blank" style="text-decoration:none;">
+<strong>Try Live Demo →</strong>
+</a>
 
 ## Screenshots
 
